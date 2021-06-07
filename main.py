@@ -3,8 +3,9 @@ from FusionNet import *
 import numpy as np
 import matplotlib.pyplot as plt
 
-# hyperparameters
 if __name__ == '__main__':
+    
+    # hyperparameters
     batch_size = 8
     img_size = 512
     lr = 0.0002
